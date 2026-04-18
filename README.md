@@ -1,7 +1,7 @@
 # Single-camera Multi Object Tracking using YOLOv8 and DeepSORT
 
 ## Project Overview
-This repository demonstrates multi-object tracking by combining the **YOLOv8** object detector with the **DeepSORT** tracker. Given an input video, the system detects objects in each frame and assigns persistent IDs as they move across frames.
+This repository demonstrates multi-object tracking by combining the **YOLOv8** object detector with the **DeepSORT** tracker.
 
 ## Result Example
 ![Tracking Result](singlecam_tracking.png)

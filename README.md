@@ -9,8 +9,6 @@ This repository demonstrates multi-object tracking by combining the **YOLOv8** o
 ## Features
 - Object detection using YOLOv8  
 - Appearance-based tracking with DeepSORT  
-- Color-coded bounding boxes with track IDs and confidence scores  
-- Easy integration: swap in other YOLO weights or DeepSORT feature encoders  
 
 ## Prerequisites
 - Python 3.8+  

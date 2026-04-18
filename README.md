@@ -17,8 +17,8 @@ This repository demonstrates multi-object tracking by combining the **YOLOv8** o
 - OpenCV 4.x  
 - NumPy  
 
-## Installation
-Clone the repo:  
+## Acknowledgement
+Our work is based on the codebase of DeepSORT:  
    ```bash
    git clone https://github.com/nwojke/deep_sort.git
 
